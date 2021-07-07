@@ -1,0 +1,14 @@
+type Query{
+	hello: String
+	test:String
+	age:String
+	name:String
+	country:String
+	}
+
+type Home{
+	age:String
+	name:String
+	country:String
+
+}
